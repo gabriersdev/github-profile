@@ -64,4 +64,8 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
  <a href= "https://cursos.alura.com.br/vitrinedev/livioalvarenga"><img alt="perfil vitrinedev livio alvarenga" align="center" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/e0f5b5a82976af114d957c20f0c78b4d304a68a0/files/vitrinedev.svg"></a>
 </p>
 
-![](https://github.com/LivioAlvarenga/LivioAlvarenga/blob/output/github-contribution-grid-snake.svg)  
+![](https://github.com/LivioAlvarenga/LivioAlvarenga/blob/output/github-contribution-grid-snake.svg)
+  
+ 
+ ###### [www.livioalvarenga.com](https://livioalvarenga.com)
+ ###### _#CompartilheConhecimento_
