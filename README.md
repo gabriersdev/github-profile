@@ -33,10 +33,10 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
   <img align="center" alt="react" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="typescript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img align="center" alt="nextjs" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="prisma" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/d9a9c4a96fc20fba39a9fcc7113ca84e0593f77a/files/prisma.svg">
+  <img align="center" alt="prisma" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/13c726183de46420023ecabf4fc3c90191d4a8d0/files/prisma.svg">
   <img align="center" alt="postgresql" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="fastify" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/d9a9c4a96fc20fba39a9fcc7113ca84e0593f77a/files/fastify.svg">
-  <img align="center" alt="axios" height="20" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/d9a9c4a96fc20fba39a9fcc7113ca84e0593f77a/files/axios.svg">
+  <img align="center" alt="fastify" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/13c726183de46420023ecabf4fc3c90191d4a8d0/files/fastify.svg">
+  <img align="center" alt="axios" height="20" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/13c726183de46420023ecabf4fc3c90191d4a8d0/files/axios.svg">
 </div>
 
 &nbsp;
@@ -54,7 +54,7 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
 ## **Contatos**
 
 <p align="center">
-  <a href= "https://www.livioalvarenga.com/"><img alt="portifólio livio alvarenga" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/391dfce0113899ba3099143935ff75ddcc54c97f/files/badgePortifolioLivio.svg"></a>
+  <a href= "https://www.livioalvarenga.com/"><img alt="portifólio livio alvarenga" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/13c726183de46420023ecabf4fc3c90191d4a8d0/files/badgePortifolioLivio.svg"></a>
   <a href= "https://www.linkedin.com/in/livio-alvarenga-planejamento-mrp-engenheiro-produ%C3%A7%C3%A3o-materiais-vba-powerbi/"><img alt="perfil linkedin livio alvarenga" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=0A66C2&logo=LinkedIn&label=LinkedIn&message=Livio Alvarenga&color=0A66C2"></a>
   <a href= "https://twitter.com/AlvarengaLivio"><img alt="perfil twitter livio alvarenga" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=1DA1F2&logo=Twitter&label=Twitter&message=@AlvarengaLivio&color=1DA1F2"></a>
   <a href= "https://www.instagram.com/livio_alvarenga/"><img alt="perfil instagram livio alvarenga" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=E4405F&logo=Instagram&label=Instagram&message=@livio_alvarenga&color=E4405F"></a>
