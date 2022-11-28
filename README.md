@@ -14,7 +14,7 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
   <img align="center" alt="tailwind" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="bootstrap" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="react" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="vite" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/d9a9c4a96fc20fba39a9fcc7113ca84e0593f77a/files/vite.svg">
+  <img align="center" alt="vite" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/3c6e62cf6789eea4733372d2a109ee3f8a5a42d4/files/vite.svg">
   <img align="center" alt="sass" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="gulp" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
   <img align="center" alt="wordpress" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
