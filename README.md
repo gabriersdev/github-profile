@@ -13,6 +13,8 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
   <img align="center" alt="css3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="tailwind" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="bootstrap" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="react" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="vite" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/d9a9c4a96fc20fba39a9fcc7113ca84e0593f77a/files/vite.svg">
   <img align="center" alt="sass" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="gulp" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
   <img align="center" alt="wordpress" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
@@ -30,7 +32,6 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
 ## **Estou aprendendo**
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="react" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="typescript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img align="center" alt="nextjs" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="prisma" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/13c726183de46420023ecabf4fc3c90191d4a8d0/files/prisma.svg">
