@@ -42,14 +42,6 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
 
 &nbsp;
 
-<div>
-  <a href="https://github.com/LivioAlvarenga">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LivioAlvarenga&show_icons=true&theme=algolial&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LivioAlvarenga&layout=compact&langs_count=7&theme=algolia"/>
-</div>
-
-&nbsp;
-
 <hr>
 
 ## **Contatos**
