@@ -9,10 +9,10 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
 
 ### Linguagens de programação e de estilos
 <p>
-  <a href= "https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS 3 badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=1572B6&logo=CSS3&label=Cascading Style Sheets&message=CSS3&color=1572B6"></a>
+  <a href= "https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS 3 badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/css-badge.svg"></a>
   <a href= "https://html5.org/"><img alt="html 5 badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/html-badge.svg"></a>
   <a href= "https://www.javascript.com/" target="_blank" rel="noopener noreferrer"><img alt="JavaScript badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/javascript-badge.svg"></a>
-  <a href= "https://sass-lang.com/"><img alt="SASS badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=CC6699&logo=Sass&label=Syntactically Awesome Style Sheets&message=SASS&color=CC6699"></a>
+  <a href= "https://sass-lang.com/"><img alt="SASS badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/sass-badge.svg"></a>
   <a href= "https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img alt="TypeScript badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/typescript-badge.svg"></a>
   <a href= "https://learn.microsoft.com/pt-br/office/vba/api/overview/"><img alt="VBA badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/3eacace9f12ffbb7e27ea7e9f97f48f18febdc55/files/vba-badge.svg"></a>
  </p>
@@ -50,7 +50,7 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
   <a href= "https://mui.com/"><img alt="mui ui" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/react-mui-ui-badge.svg"></a>
   <a href= "https://reactrouter.com/"><img alt="React Router badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/react-router-badge.svg"></a>
   <a href= "https://recoiljs.org/"><img alt="Recoil badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/recoil-badge.svg"></a>
-  <a href= "https://tailwindcss.com/"><img alt="Tailwind CSS badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=06b6d4&logo=Tailwind CSS&label=Library Style&message=Tailwind CSS&color=06b6d4"></a>
+  <a href= "https://tailwindcss.com/"><img alt="Tailwind CSS badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/tailwindcss-badge.svg"></a>
   <a href= "https://zod.dev/" target="_blank" rel="noopener noreferrer"><img alt="ZOD badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/7caba2f743ee9b61f0225a22da57466ecb67097c/files/zod-badge.svg"></a>
  </p>
  
@@ -66,7 +66,7 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
  <p>
   <a href= "https://jwt.io/"><img alt="JSON Web Tokens Badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/af3b694b2d536d66113468df616d3f165d881eb7/files/jwt-badge.svg"></a>
   <a href= "https://swagger.io/"><img alt="swagger badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/e8e5c3d2752ae17cbffa11142d8513fe1f405873/files/swagger-badge.svg"></a>
-  <a href= "https://vitejs.dev/"><img alt="site Vite" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=646cff&logo=Vite&label=Build tool&message=Vite.js&color=646cff"></a>
+  <a href= "https://vitejs.dev/"><img alt="site Vite" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/vite-badge.svg"></a>
  </p>
  
  
