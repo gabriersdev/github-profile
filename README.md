@@ -6,25 +6,90 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
 &nbsp;
 
 ## **Ferramentas e Tecnologias**
-<div style="display: inline_block"><br>
-  <img align="center" alt="javascript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="typescript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="nodejs" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="zodjs" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/a43afb93d07b35f8dc308eb6b790f9cfdbb236c1/files/zodjs.svg">
-  <img align="center" alt="prisma" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/13c726183de46420023ecabf4fc3c90191d4a8d0/files/prisma.svg">
-  <img align="center" alt="fastify" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/13c726183de46420023ecabf4fc3c90191d4a8d0/files/fastify.svg">
-  <img align="center" alt="swagger" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/3b7c2729fa1d6f3e5b48fbf7986a7391160376ec/files/swagger.svg">
+
+### Linguagens de programação e de estilos
+<p>
+  <a href= "https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS 3 badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=1572B6&logo=CSS3&label=Cascading Style Sheets&message=CSS3&color=1572B6"></a>
+  <a href= "https://html5.org/"><img alt="html 5 badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/html-badge.svg"></a>
+  <a href= "https://www.javascript.com/" target="_blank" rel="noopener noreferrer"><img alt="JavaScript badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/javascript-badge.svg"></a>
+  <a href= "https://sass-lang.com/"><img alt="SASS badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=CC6699&logo=Sass&label=Syntactically Awesome Style Sheets&message=SASS&color=CC6699"></a>
+  <a href= "https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img alt="TypeScript badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/typescript-badge.svg"></a>
+  <a href= "https://learn.microsoft.com/pt-br/office/vba/api/overview/"><img alt="VBA badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/3eacace9f12ffbb7e27ea7e9f97f48f18febdc55/files/vba-badge.svg"></a>
+ </p>
+ 
+### Padronização e formatação de código
+<p>
+  <a href= "https://github.com/prettier/prettier" target="_blank" rel="noopener noreferrer"><img alt="code formatter prettier" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/prettier-badge.svg"></a>
+  <a href= "https://eslint.org/" target="_blank" rel="noopener noreferrer"><img alt="code standardization eslint" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/59575ed19b13121cd113cfc66a71f18dea210c79/files/eslint-badge.svg"></a>
+</p>
+
+### Frameworks
+ <p>
+  <a href= "https://www.fastify.io/" target="_blank" rel="noopener noreferrer"><img alt="Fastify badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/fastify-badge.svg"></a>
+  <a href= "https://reactjs.org/"><img alt="React badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/react-badge.svg"></a>
+ </p>
+ 
+### Testes
+ <p>
+  <a href= "https://github.com/LivioAlvarenga/API-Rest-Node-SOLID/actions"><img alt="badge github actions" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/7f97047760406ed30c106dcf1114a674914da66b/files/github-actions-badge.svg"></a>
+  <a href= "https://vitest.dev/"><img alt="Vitest Badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/28993b470420f2c44db532b4e6e662e60a186954/files/vitest-badge.svg"></a>
+ </p>
+ 
+### Banco de dados 
+ <p>
+  <a href= "https://knexjs.org/" target="_blank" rel="noopener noreferrer"><img alt="KnexJs badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/57d2e9290214202d93a058e2725693cd2fed8ac5/files/knex-badge.svg"></a>
+  <a href= "https://www.prisma.io/"><img alt="Prisma badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/ef5ebd0021ccb0a8d244f5636b2b238ab0af09e7/files/prisma-badge.svg"></a>
+  <a href= "https://www.mysql.com/"><img alt="MySQL badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/d7f6873e652db237a89583607eb70757ebaaa6d1/files/mysql-badge.svg"></a>
+  <a href= "https://www.postgresql.org/"><img alt="Postgresql badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/67d2d98f96b1bf7a28a8fdce2d4fe7097fc4c4f7/files/postgresql-badge.svg"></a>
+  <a href= "https://www.sqlite.org/index.html" target="_blank" rel="noopener noreferrer"><img alt="SQLite badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/67d2d98f96b1bf7a28a8fdce2d4fe7097fc4c4f7/files/sqlite-badge.svg"></a>
+ </p>
+ 
+### Bibliotecas
+ <p>
+  <a href= "https://www.dotenv.org/" target="_blank" rel="noopener noreferrer"><img alt="Dotenv badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/4eed338fdcd547570ed365f2b344e43c8202e88f/files/dotenv-badge.svg"></a>
+  <a href= "https://mui.com/"><img alt="mui ui" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/react-mui-ui-badge.svg"></a>
+  <a href= "https://reactrouter.com/"><img alt="React Router badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/react-router-badge.svg"></a>
+  <a href= "https://recoiljs.org/"><img alt="Recoil badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/recoil-badge.svg"></a>
+  <a href= "https://tailwindcss.com/"><img alt="Tailwind CSS badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=06b6d4&logo=Tailwind CSS&label=Library Style&message=Tailwind CSS&color=06b6d4"></a>
+  <a href= "https://zod.dev/" target="_blank" rel="noopener noreferrer"><img alt="ZOD badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/7caba2f743ee9b61f0225a22da57466ecb67097c/files/zod-badge.svg"></a>
+ </p>
+ 
+### Plataformas
+ <p>
+  <a href= "https://www.docker.com/"><img alt="Docker badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/d7f6873e652db237a89583607eb70757ebaaa6d1/files/docker-badge.svg"></a>
+  <a href= "https://insomnia.rest/" target="_blank" rel="noopener noreferrer"><img alt="Insomnia badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/insomnia-badge.svg"></a>
+  <a href= "https://nodejs.org/en/" target="_blank" rel="noopener noreferrer"><img alt="Node.js badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/nodejs-badge.svg"></a>
+  <a href= "https://code.visualstudio.com/download" target="_blank" rel="noopener noreferrer"><img alt="vscode download" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/vsCode-badge.svg"></a>
+ </p>
+ 
+### Ferramentas
+ <p>
+  <a href= "https://jwt.io/"><img alt="JSON Web Tokens Badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/af3b694b2d536d66113468df616d3f165d881eb7/files/jwt-badge.svg"></a>
+  <a href= "https://swagger.io/"><img alt="swagger badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/e8e5c3d2752ae17cbffa11142d8513fe1f405873/files/swagger-badge.svg"></a>
+  <a href= "https://vitejs.dev/"><img alt="site Vite" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=646cff&logo=Vite&label=Build tool&message=Vite.js&color=646cff"></a>
+ </p>
+ 
+ 
+ 
+ 
+ 
+ <div><br> 
+  
+  
+  
+  
   <img align="center" alt="react" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="vite" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/3c6e62cf6789eea4733372d2a109ee3f8a5a42d4/files/vite.svg">
-  <img align="center" alt="vitest" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/a43afb93d07b35f8dc308eb6b790f9cfdbb236c1/files/vitest.svg">
+  
   <img align="center" alt="html5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="css3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="tailwind" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="bootstrap" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="sass" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="mysql" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  
   <img align="center" alt="sqlite" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="postgresql" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  
   <img align="center" alt="gulp" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
   <img align="center" alt="wordpress" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -39,6 +104,7 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
 ## **Estou aprendendo**
 
 <div style="display: inline_block"><br>
+  <a href= "https://reactnative.dev/"><img alt="React Native badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/react-native-badge.svg"></a>
   <img align="center" alt="nextjs" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="axios" height="20" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/13c726183de46420023ecabf4fc3c90191d4a8d0/files/axios.svg">
 </div>
