@@ -10,11 +10,13 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
   <img align="center" alt="javascript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="typescript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img align="center" alt="nodejs" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="zodjs" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/a43afb93d07b35f8dc308eb6b790f9cfdbb236c1/files/zodjs.svg">
   <img align="center" alt="prisma" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/13c726183de46420023ecabf4fc3c90191d4a8d0/files/prisma.svg">
   <img align="center" alt="fastify" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/13c726183de46420023ecabf4fc3c90191d4a8d0/files/fastify.svg">
   <img align="center" alt="swagger" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/3b7c2729fa1d6f3e5b48fbf7986a7391160376ec/files/swagger.svg">
   <img align="center" alt="react" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="vite" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/3c6e62cf6789eea4733372d2a109ee3f8a5a42d4/files/vite.svg">
+  <img align="center" alt="vitest" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/a43afb93d07b35f8dc308eb6b790f9cfdbb236c1/files/vitest.svg">
   <img align="center" alt="html5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="css3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="tailwind" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
