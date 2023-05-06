@@ -13,21 +13,21 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
   <img align="center" alt="prisma" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/13c726183de46420023ecabf4fc3c90191d4a8d0/files/prisma.svg">
   <img align="center" alt="fastify" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/13c726183de46420023ecabf4fc3c90191d4a8d0/files/fastify.svg">
   <img align="center" alt="swagger" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/3b7c2729fa1d6f3e5b48fbf7986a7391160376ec/files/swagger.svg">
+  <img align="center" alt="react" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="vite" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/3c6e62cf6789eea4733372d2a109ee3f8a5a42d4/files/vite.svg">
   <img align="center" alt="html5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="css3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="tailwind" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="bootstrap" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="react" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="vite" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/3c6e62cf6789eea4733372d2a109ee3f8a5a42d4/files/vite.svg">
   <img align="center" alt="sass" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="mysql" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="sqlite" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="postgresql" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="gulp" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
   <img align="center" alt="wordpress" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="kivy" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/677c23938a4c4ee267ad946d8c8a7cc4e513a4e4/files/kivy.svg">
   <img align="center" alt="kivymd" height="30" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/kivymd.png?raw=true">
-  <img align="center" alt="mysql" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="sqlite" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="postgresql" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="poetry" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/d9a9c4a96fc20fba39a9fcc7113ca84e0593f77a/files/poetry.svg">
   <img align="center" alt="git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 </div>
