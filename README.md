@@ -64,6 +64,7 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
  
 ### Ferramentas
  <p>
+  <a href= "https://gulpjs.com/"><img alt="gulp badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/gulp-badge.svg"></a>
   <a href= "https://jwt.io/"><img alt="JSON Web Tokens Badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/af3b694b2d536d66113468df616d3f165d881eb7/files/jwt-badge.svg"></a>
   <a href= "https://swagger.io/"><img alt="swagger badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/e8e5c3d2752ae17cbffa11142d8513fe1f405873/files/swagger-badge.svg"></a>
   <a href= "https://vitejs.dev/"><img alt="site Vite" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/vite-badge.svg"></a>
@@ -78,24 +79,13 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
   
   
   
-  <img align="center" alt="react" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="vite" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/3c6e62cf6789eea4733372d2a109ee3f8a5a42d4/files/vite.svg">
   
-  <img align="center" alt="html5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="css3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-  <img align="center" alt="tailwind" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="bootstrap" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="sass" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  
-  <img align="center" alt="sqlite" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="postgresql" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  
-  <img align="center" alt="gulp" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
   <img align="center" alt="wordpress" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="kivy" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/677c23938a4c4ee267ad946d8c8a7cc4e513a4e4/files/kivy.svg">
   <img align="center" alt="kivymd" height="30" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/kivymd.png?raw=true">
-  <img align="center" alt="poetry" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/d9a9c4a96fc20fba39a9fcc7113ca84e0593f77a/files/poetry.svg">
+  
   <img align="center" alt="git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 </div>
 
@@ -105,8 +95,15 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
 
 <div style="display: inline_block"><br>
   <a href= "https://reactnative.dev/"><img alt="React Native badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/react-native-badge.svg"></a>
-  <img align="center" alt="nextjs" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="axios" height="20" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/13c726183de46420023ecabf4fc3c90191d4a8d0/files/axios.svg">
+  <a href= "https://expo.dev/"><img alt="Expo badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/react-expo-badge.svg"></a>
+  <a href= "https://nextjs.org/"><img alt="Next.js badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/nextjs-badge.svg"></a>
+  <a href= "https://axios-http.com/"><img alt="Axios badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/axios-badge.svg"></a>
+  <a href= "https://nestjs.com/"><img alt="NestJs badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/nestjs-badge.svg"></a>
+  <a href= "https://kafka.apache.org/"><img alt="Apache Kafka badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/kafka-badge.svg"></a>
+  <a href= "https://jestjs.io/pt-BR/"><img alt="JestJs badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/jestjs-badge.svg"></a>
+  <a href= "https://www.figma.com/"><img alt="link projeto no figma" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/figma-badge.svg"></a>
+  
+  
 </div>
 
 &nbsp;
