@@ -62,8 +62,8 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
 ### Plataformas
  <p>
   <a href= "https://www.docker.com/"><img alt="Docker badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/d7f6873e652db237a89583607eb70757ebaaa6d1/files/docker-badge.svg"></a>
-  <a href= "https://git-scm.com/"><img alt="Git badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=f05032&logo=Git&label=Code version control system&message=Git&color=f05032"></a>
-  <a href= "https://github.com/LivioAlvarenga"><img alt="GitHub badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=181717&logo=GitHub&label=Code hosting platform&message=GitHub&color=181717"></a>
+  <a href= "https://git-scm.com/"><img alt="Git badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/git-badge.svg"></a>
+  <a href= "https://github.com/LivioAlvarenga"><img alt="GitHub badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/github-badge.svg"></a>
   <a href= "https://insomnia.rest/"><img alt="Insomnia badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/insomnia-badge.svg"></a>
   <a href= "https://nodejs.org/en/"><img alt="Node.js badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/nodejs-badge.svg"></a>
   <a href= "https://code.visualstudio.com/download"><img alt="vscode download" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/vsCode-badge.svg"></a>
