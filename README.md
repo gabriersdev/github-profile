@@ -9,11 +9,13 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
 
 ### Linguagens de programação e de estilos
 <p>
-  <a href= "https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS 3 badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/css-badge.svg"></a>
+  <a href= "https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS 3 badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=1572B6&logo=CSS3&label=Style Language - Cascading Style Sheets&message=CSS3&color=1572B6"></a>
   <a href= "https://html5.org/"><img alt="html 5 badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/html-badge.svg"></a>
-  <a href= "https://www.javascript.com/" target="_blank" rel="noopener noreferrer"><img alt="JavaScript badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/javascript-badge.svg"></a>
+  <a href= "https://www.javascript.com/"><img alt="JavaScript badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/javascript-badge.svg"></a>
+  <a href= "https://www.python.org/"><img alt="Python badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=3776AB&logo=Python&label=Language&message=Python&color=3776AB"></a>
   <a href= "https://sass-lang.com/"><img alt="SASS badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/sass-badge.svg"></a>
-  <a href= "https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img alt="TypeScript badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/typescript-badge.svg"></a>
+  <a href= "https://www.w3schools.com/sql/"><img alt="SQL badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=000000&logo=SQL&label=Structured Query Language&message=SQL&color=000000"></a>
+  <a href= "https://www.typescriptlang.org/"><img alt="TypeScript badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/typescript-badge.svg"></a>
   <a href= "https://learn.microsoft.com/pt-br/office/vba/api/overview/"><img alt="VBA badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/3eacace9f12ffbb7e27ea7e9f97f48f18febdc55/files/vba-badge.svg"></a>
  </p>
  
