@@ -27,10 +27,10 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
 
 ### Frameworks
  <p>
-  <a href= "https://getbootstrap.com/"><img alt="Bootstrap badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=7952B3&logo=Bootstrap&label=Framework CSS&message=Bootstrap&color=7952B3"></a>
+  <a href= "https://getbootstrap.com/"><img alt="Bootstrap badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/bootstrap-badge.svg"></a>
   <a href= "https://www.fastify.io/"><img alt="Fastify badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/fastify-badge.svg"></a>
-  <a href= "https://kivy.org/"><img alt="Kivy badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=202326&logo=Kivy&label=Framework UI Python&message=Kivy&color=202326"></a>
-  <a href= "https://kivymd.readthedocs.io/en/1.1.1/#"><img alt="KivyMD badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=202326&logo=Kivy&label=Framework UI Python&message=KivyMD (Material Design)&color=202326"></a>
+  <a href= "https://kivy.org/"><img alt="Kivy badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/kivy-badge.svg"></a>
+  <a href= "https://kivymd.readthedocs.io/en/1.1.1/#"><img alt="KivyMD badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/kivymd-badge.svg"></a>
   <a href= "https://reactjs.org/"><img alt="React badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/react-badge.svg"></a>
  </p>
  
@@ -62,10 +62,12 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
 ### Plataformas
  <p>
   <a href= "https://www.docker.com/"><img alt="Docker badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/d7f6873e652db237a89583607eb70757ebaaa6d1/files/docker-badge.svg"></a>
+  <a href= "https://git-scm.com/"><img alt="Git badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=f05032&logo=Git&label=Code version control system&message=Git&color=f05032"></a>
+  <a href= "https://github.com/LivioAlvarenga"><img alt="GitHub badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=181717&logo=GitHub&label=Code hosting platform&message=GitHub&color=181717"></a>
   <a href= "https://insomnia.rest/"><img alt="Insomnia badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/insomnia-badge.svg"></a>
   <a href= "https://nodejs.org/en/"><img alt="Node.js badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/nodejs-badge.svg"></a>
   <a href= "https://code.visualstudio.com/download"><img alt="vscode download" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/vsCode-badge.svg"></a>
-  <a href= "https://wordpress.com/pt-br/"><img alt="wordpress badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=21759b&logo=wordpress&label=Content Management System&message=Wordpress&color=21759b"></a>
+  <a href= "https://wordpress.com/pt-br/"><img alt="wordpress badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/wordpress-badge.svg"></a>
  </p>
  
 ### Ferramentas
@@ -75,25 +77,6 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
   <a href= "https://swagger.io/"><img alt="swagger badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/e8e5c3d2752ae17cbffa11142d8513fe1f405873/files/swagger-badge.svg"></a>
   <a href= "https://vitejs.dev/"><img alt="site Vite" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/vite-badge.svg"></a>
  </p>
- 
- 
- 
- 
- 
- <div><br> 
-  
-  
-  
-  
-  
-  <img align="center" alt="bootstrap" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="wordpress" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
-  <img align="center" alt="python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="kivy" height="30" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/677c23938a4c4ee267ad946d8c8a7cc4e513a4e4/files/kivy.svg">
-  <img align="center" alt="kivymd" height="30" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/kivymd.png?raw=true">
-  
-  <img align="center" alt="git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-</div>
 
 &nbsp;
           
