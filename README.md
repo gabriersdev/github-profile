@@ -9,12 +9,12 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
 
 ### Linguagens de programação e de estilos
 <p>
-  <a href= "https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS 3 badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=1572B6&logo=CSS3&label=Style Language - Cascading Style Sheets&message=CSS3&color=1572B6"></a>
+  <a href= "https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS 3 badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/css3-badge.svg"></a>
   <a href= "https://html5.org/"><img alt="html 5 badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/html-badge.svg"></a>
   <a href= "https://www.javascript.com/"><img alt="JavaScript badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/javascript-badge.svg"></a>
-  <a href= "https://www.python.org/"><img alt="Python badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=3776AB&logo=Python&label=Language&message=Python&color=3776AB"></a>
+  <a href= "https://www.python.org/"><img alt="Python badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/python-badge.svg"></a>
   <a href= "https://sass-lang.com/"><img alt="SASS badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/sass-badge.svg"></a>
-  <a href= "https://www.w3schools.com/sql/"><img alt="SQL badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=000000&logo=SQL&label=Structured Query Language&message=SQL&color=000000"></a>
+  <a href= "https://www.w3schools.com/sql/"><img alt="SQL badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/sql-badge.svg"></a>
   <a href= "https://www.typescriptlang.org/"><img alt="TypeScript badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/typescript-badge.svg"></a>
   <a href= "https://learn.microsoft.com/pt-br/office/vba/api/overview/"><img alt="VBA badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/3eacace9f12ffbb7e27ea7e9f97f48f18febdc55/files/vba-badge.svg"></a>
  </p>
@@ -27,7 +27,10 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
 
 ### Frameworks
  <p>
-  <a href= "https://www.fastify.io/" target="_blank" rel="noopener noreferrer"><img alt="Fastify badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/fastify-badge.svg"></a>
+  <a href= "https://getbootstrap.com/"><img alt="Bootstrap badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=7952B3&logo=Bootstrap&label=Framework CSS&message=Bootstrap&color=7952B3"></a>
+  <a href= "https://www.fastify.io/"><img alt="Fastify badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/fastify-badge.svg"></a>
+  <a href= "https://kivy.org/"><img alt="Kivy badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=202326&logo=Kivy&label=Framework UI Python&message=Kivy&color=202326"></a>
+  <a href= "https://kivymd.readthedocs.io/en/1.1.1/#"><img alt="KivyMD badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=202326&logo=Kivy&label=Framework UI Python&message=KivyMD (Material Design)&color=202326"></a>
   <a href= "https://reactjs.org/"><img alt="React badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/react-badge.svg"></a>
  </p>
  
@@ -59,9 +62,10 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
 ### Plataformas
  <p>
   <a href= "https://www.docker.com/"><img alt="Docker badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/d7f6873e652db237a89583607eb70757ebaaa6d1/files/docker-badge.svg"></a>
-  <a href= "https://insomnia.rest/" target="_blank" rel="noopener noreferrer"><img alt="Insomnia badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/insomnia-badge.svg"></a>
-  <a href= "https://nodejs.org/en/" target="_blank" rel="noopener noreferrer"><img alt="Node.js badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/nodejs-badge.svg"></a>
-  <a href= "https://code.visualstudio.com/download" target="_blank" rel="noopener noreferrer"><img alt="vscode download" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/vsCode-badge.svg"></a>
+  <a href= "https://insomnia.rest/"><img alt="Insomnia badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/insomnia-badge.svg"></a>
+  <a href= "https://nodejs.org/en/"><img alt="Node.js badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/nodejs-badge.svg"></a>
+  <a href= "https://code.visualstudio.com/download"><img alt="vscode download" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/vsCode-badge.svg"></a>
+  <a href= "https://wordpress.com/pt-br/"><img alt="wordpress badge" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=21759b&logo=wordpress&label=Content Management System&message=Wordpress&color=21759b"></a>
  </p>
  
 ### Ferramentas
