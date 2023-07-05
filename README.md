@@ -56,6 +56,7 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
   <a href= "https://www.dotenv.org/" target="_blank" rel="noopener noreferrer"><img alt="Dotenv badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/4eed338fdcd547570ed365f2b344e43c8202e88f/files/dotenv-badge.svg"></a>
   <a href= "https://mui.com/"><img alt="mui ui" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/react-mui-ui-badge.svg"></a>
   <a href= "https://reactrouter.com/"><img alt="React Router badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/react-router-badge.svg"></a>
+  <a href= "https://www.react-hook-form.com/"><img alt="React Hook Form badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/reactHookForm-badge.svg"></a>
   <a href= "https://recoiljs.org/"><img alt="Recoil badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/recoil-badge.svg"></a>
   <a href= "https://tailwindcss.com/"><img alt="Tailwind CSS badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/tailwindcss-badge.svg"></a>
   <a href= "https://zod.dev/" target="_blank" rel="noopener noreferrer"><img alt="ZOD badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/7caba2f743ee9b61f0225a22da57466ecb67097c/files/zod-badge.svg"></a>
