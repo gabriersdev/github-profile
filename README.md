@@ -33,7 +33,9 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
   <a href= "https://kivymd.readthedocs.io/en/1.1.1/#"><img alt="KivyMD badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/kivymd-badge.svg"></a>
   <a href= "https://nextjs.org/"><img alt="Next.js badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/nextjs-badge.svg"></a>
   <a href= "https://reactjs.org/"><img alt="React badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/react-badge.svg"></a>
- </p>
+  <a href= "https://reactnative.dev/"><img alt="React Native badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/react-native-badge.svg"></a>
+  <a href= "https://expo.dev/"><img alt="Expo badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/react-expo-badge.svg"></a>
+</p>
  
 ### Testes
  <p>
@@ -72,6 +74,7 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
   <a href= "https://nodejs.org/en/"><img alt="Node.js badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/nodejs-badge.svg"></a>
   <a href= "https://code.visualstudio.com/download"><img alt="vscode download" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/2467074c4c912dd04b12bcee1076cb5ca7ba9eaf/files/vsCode-badge.svg"></a>
   <a href= "https://wordpress.com/pt-br/"><img alt="wordpress badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/wordpress-badge.svg"></a>
+  <a href= "https://www.figma.com/"><img alt="link projeto no figma" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/figma-badge.svg"></a>
  </p>
  
 ### Ferramentas
@@ -87,12 +90,10 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
 ## **Estou aprendendo**
 
 <div style="display: inline_block"><br>
-  <a href= "https://reactnative.dev/"><img alt="React Native badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/react-native-badge.svg"></a>
-  <a href= "https://expo.dev/"><img alt="Expo badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/react-expo-badge.svg"></a>
   <a href= "https://nestjs.com/"><img alt="NestJs badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/nestjs-badge.svg"></a>
   <a href= "https://kafka.apache.org/"><img alt="Apache Kafka badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/kafka-badge.svg"></a>
   <a href= "https://jestjs.io/pt-BR/"><img alt="JestJs badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/jestjs-badge.svg"></a>
-  <a href= "https://www.figma.com/"><img alt="link projeto no figma" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/figma-badge.svg"></a>
+  
   
   
 </div>
