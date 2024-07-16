@@ -41,6 +41,7 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
  <p>
   <a href= "https://github.com/LivioAlvarenga/API-Rest-Node-SOLID/actions"><img alt="badge github actions" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/7f97047760406ed30c106dcf1114a674914da66b/files/github-actions-badge.svg"></a>
   <a href= "https://vitest.dev/"><img alt="Vitest Badge" src="https://raw.githubusercontent.com/LivioAlvarenga/LivioAlvarenga/28993b470420f2c44db532b4e6e662e60a186954/files/vitest-badge.svg"></a>
+  <a href= "https://jestjs.io/pt-BR/"><img alt="JestJs badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/jestjs-badge.svg"></a>
  </p>
  
 ### Banco de dados 
@@ -92,7 +93,6 @@ Engenheiro de Produção e desenvolvedor com ampla vivência na área gerencial,
 <div style="display: inline_block"><br>
   <a href= "https://nestjs.com/"><img alt="NestJs badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/nestjs-badge.svg"></a>
   <a href= "https://kafka.apache.org/"><img alt="Apache Kafka badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/kafka-badge.svg"></a>
-  <a href= "https://jestjs.io/pt-BR/"><img alt="JestJs badge" src="https://github.com/LivioAlvarenga/LivioAlvarenga/blob/main/files/jestjs-badge.svg"></a>
   
   
   
